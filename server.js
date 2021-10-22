@@ -42,7 +42,7 @@ let rappers = {
         'labels': 'Roc Nation, Atlantic, Def Jam, Roc-A-Fella, Priority',
         'children': '3'
     },
-    'unknown': {
+    'Nikki Minaj': {
         'age': 'unknown',
         'birthName': 'unknown',
         'birthdate': 'unknown',
