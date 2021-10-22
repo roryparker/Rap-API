@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Client Side API Code</title>
+    <script src='js/location.js'></script>
+</head>
+
+<body>
+    <h1> Rapper API</h1>
+    <div style="text-align: center">
+        <button type="button"> Find a Rapper </button>
+        <input type="text" placeholder="Enter the Rapper name" />
+    </div>
+
+    <h2>Result: </h2>
+
+    <script src='js/main.js'></script>
+    <script>
+        setInterval(
+            function() {
+                var randomColor = Math.floor(Math.random() * 16777215).toString(16);
+                document.body.style.backgroundColor = "#" + randomColor;
+            }, 2000)
+    </script>
+</body>
+
+</html>
