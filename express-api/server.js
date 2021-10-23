@@ -30,8 +30,20 @@ let rappers = {
         'labels': 'none',
         'children': 0
     },
-    'JayZ': {
-        'age': '51',
+    'Chance': {
+        'age': 28,
+        'birthName': 'Chancelor Jonathan Bennett',
+        'birthdate': 'April 16, 1993',
+        'birthLocation': 'London, England',
+        'origin': 'Chicago, Illinois',
+        'genre': 'hip hop, alternative hip hop, r & b',
+        'occupation': 'rapper, singer, song writer, record producer, activist, actor, philanthropist',
+        'yearsActive': '2011-present',
+        'labels': 'none',
+        'children': 0
+    },
+    'Jay Z': {
+        'age': 51,
         'birthName': 'Shawn Corey Carter',
         'birthdate': 'December 4, 1969',
         'birthLocation': 'New York City, New York',
@@ -40,187 +52,7 @@ let rappers = {
         'occupation': 'Rapper, Clothing Designer',
         'yearsActive': '20',
         'labels': 'Roc Nation, Atlantic, Def Jam, Roc-A-Fella, Priority',
-        'children': '3'
-    },
-    'Nikki Minaj': {
-        'age': 'unknown',
-        'birthName': 'unknown',
-        'birthdate': 'unknown',
-        'birthLocation': 'unknown',
-        'origin': 'unknown',
-        'genre': 'unknown',
-        'occupation': 'unknown',
-        'yearsActive': 'unknown',
-        'labels': 'unknown',
-        'children': 'unknown'
-    },
-    'unknown': {
-        'age': 'unknown',
-        'birthName': 'unknown',
-        'birthdate': 'unknown',
-        'birthLocation': 'unknown',
-        'origin': 'unknown',
-        'genre': 'unknown',
-        'occupation': 'unknown',
-        'yearsActive': 'unknown',
-        'labels': 'unknown',
-        'children': 'unknown'
-    },
-    'unknown': {
-        'age': 'unknown',
-        'birthName': 'unknown',
-        'birthdate': 'unknown',
-        'birthLocation': 'unknown',
-        'origin': 'unknown',
-        'genre': 'unknown',
-        'occupation': 'unknown',
-        'yearsActive': 'unknown',
-        'labels': 'unknown',
-        'children': 'unknown'
-    },
-    'unknown': {
-        'age': 'unknown',
-        'birthName': 'unknown',
-        'birthdate': 'unknown',
-        'birthLocation': 'unknown',
-        'origin': 'unknown',
-        'genre': 'unknown',
-        'occupation': 'unknown',
-        'yearsActive': 'unknown',
-        'labels': 'unknown',
-        'children': 'unknown'
-    },
-    'unknown': {
-        'age': 'unknown',
-        'birthName': 'unknown',
-        'birthdate': 'unknown',
-        'birthLocation': 'unknown',
-        'origin': 'unknown',
-        'genre': 'unknown',
-        'occupation': 'unknown',
-        'yearsActive': 'unknown',
-        'labels': 'unknown',
-        'children': 'unknown'
-    },
-    'unknown': {
-        'age': 'unknown',
-        'birthName': 'unknown',
-        'birthdate': 'unknown',
-        'birthLocation': 'unknown',
-        'origin': 'unknown',
-        'genre': 'unknown',
-        'occupation': 'unknown',
-        'yearsActive': 'unknown',
-        'labels': 'unknown',
-        'children': 'unknown'
-    },
-    'unknown': {
-        'age': 'unknown',
-        'birthName': 'unknown',
-        'birthdate': 'unknown',
-        'birthLocation': 'unknown',
-        'origin': 'unknown',
-        'genre': 'unknown',
-        'occupation': 'unknown',
-        'yearsActive': 'unknown',
-        'labels': 'unknown',
-        'children': 'unknown'
-    },
-    'unknown': {
-        'age': 'unknown',
-        'birthName': 'unknown',
-        'birthdate': 'unknown',
-        'birthLocation': 'unknown',
-        'origin': 'unknown',
-        'genre': 'unknown',
-        'occupation': 'unknown',
-        'yearsActive': 'unknown',
-        'labels': 'unknown',
-        'children': 'unknown'
-    },
-    'unknown': {
-        'age': 'unknown',
-        'birthName': 'unknown',
-        'birthdate': 'unknown',
-        'birthLocation': 'unknown',
-        'origin': 'unknown',
-        'genre': 'unknown',
-        'occupation': 'unknown',
-        'yearsActive': 'unknown',
-        'labels': 'unknown',
-        'children': 'unknown'
-    },
-    'unknown': {
-        'age': 'unknown',
-        'birthName': 'unknown',
-        'birthdate': 'unknown',
-        'birthLocation': 'unknown',
-        'origin': 'unknown',
-        'genre': 'unknown',
-        'occupation': 'unknown',
-        'yearsActive': 'unknown',
-        'labels': 'unknown',
-        'children': 'unknown'
-    },
-    'unknown': {
-        'age': 'unknown',
-        'birthName': 'unknown',
-        'birthdate': 'unknown',
-        'birthLocation': 'unknown',
-        'origin': 'unknown',
-        'genre': 'unknown',
-        'occupation': 'unknown',
-        'yearsActive': 'unknown',
-        'labels': 'unknown',
-        'children': 'unknown'
-    },
-    'unknown': {
-        'age': 'unknown',
-        'birthName': 'unknown',
-        'birthdate': 'unknown',
-        'birthLocation': 'unknown',
-        'origin': 'unknown',
-        'genre': 'unknown',
-        'occupation': 'unknown',
-        'yearsActive': 'unknown',
-        'labels': 'unknown',
-        'children': 'unknown'
-    },
-    'unknown': {
-        'age': 'unknown',
-        'birthName': 'unknown',
-        'birthdate': 'unknown',
-        'birthLocation': 'unknown',
-        'origin': 'unknown',
-        'genre': 'unknown',
-        'occupation': 'unknown',
-        'yearsActive': 'unknown',
-        'labels': 'unknown',
-        'children': 'unknown'
-    },
-    'unknown': {
-        'age': 'unknown',
-        'birthName': 'unknown',
-        'birthdate': 'unknown',
-        'birthLocation': 'unknown',
-        'origin': 'unknown',
-        'genre': 'unknown',
-        'occupation': 'unknown',
-        'yearsActive': 'unknown',
-        'labels': 'unknown',
-        'children': 'unknown'
-    },
-    'unknown': {
-        'age': 'unknown',
-        'birthName': 'unknown',
-        'birthdate': 'unknown',
-        'birthLocation': 'unknown',
-        'origin': 'unknown',
-        'genre': 'unknown',
-        'occupation': 'unknown',
-        'yearsActive': 'unknown',
-        'labels': 'unknown',
-        'children': 'unknown'
+        'children': 3
     }
 }
 
